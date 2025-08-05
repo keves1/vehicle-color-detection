@@ -14,6 +14,7 @@ git clone https://github.com/open-mmlab/mmrotate.git
 cd mmrotate
 pip install -r requirements/build.txt
 pip install -v -e .
+pip install ipykernel
 ```
 
 The vehicle detection code is in `vehicle-detection.ipynb`
